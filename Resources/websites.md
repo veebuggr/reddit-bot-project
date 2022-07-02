@@ -6,3 +6,6 @@ A blog post that demonstrates how to create a simple Reddit bot:
 
 GeeksForGeeks:  
 [Python - Making a Reddit Bot with PRAW](https://www.geeksforgeeks.org/python-making-a-reddit-bot-with-praw/)
+
+PRAW Documentation:
+[Working with PRAW's Models](https://praw.readthedocs.io/en/latest/code_overview/models/submission.html)
